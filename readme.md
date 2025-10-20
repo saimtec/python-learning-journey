@@ -63,4 +63,4 @@ File I/O
 
 Clone the repository:
 
-git clone https://github.com/<saimtec>/Python-Projects.git
+(https://github.com/saimtec/python-learning-journey.git)
